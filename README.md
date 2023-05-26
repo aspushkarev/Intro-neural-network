@@ -1,3 +1,4 @@
 # Intro-neural-network
-1. Intro_NN	Введение в нейтронные сети;
-2. Keras. Dataset fashion_mnist. Use optimizer;
+1. Intro_NN	Введение в нейронные сети;
+2. Keras. Dataset Fashion_mnist. Use optimizer;
+3. TensorFlow. Обучение нейронной сети на датасете Fashion_mnist. Оптимизация нейронной сети;
