@@ -5,4 +5,4 @@
 4. CNN Свёрточные нейронные сети;
 5. RNN Рекурентные нейронные сети;
 6. U-Net Сегментация;
-7. ObjectDetection Object Detection
+7. ObjectDetection Детектирование объектов
