@@ -6,4 +6,4 @@
 5. RNN Рекурентные нейронные сети;
 6. U-Net Сегментация;
 7. ObjectDetection Детектирование объектов;
-8. Radial Basis Network Радиальные базисные сети
+8. Radial Basis Network Радиальные базисные сети.
